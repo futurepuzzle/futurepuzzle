@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @futurepuzzle
-- 👀 I’m interested in COBOL, C++, HTML/CSS, 
+- 👀 I’m interested in COBOL, C++, HTML/CSS, Java
 - 🌱 I’m currently learning COBOL, Javascript, Web Development
 - 💞️ I’m looking to collaborate on COBOL projects, Web Development
 - 📫 How to reach me GitHub

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @futurepuzzle
-- 👀 I’m interested in COBOL, Python, HTML/CSS, Java
-- 🌱 I’m currently learning COBOL, Java, Web Development, Python
+- 👀 I’m interested in COBOL, Ruby, HTML/CSS, Java, Javascript
+- 🌱 I’m currently learning COBOL, Java, Web Development, Ruby
 - 💞️ I’m looking to collaborate on COBOL projects, Web Development
 - 📫 How to reach me GitHub
 
